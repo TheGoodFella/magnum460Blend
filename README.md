@@ -1,4 +1,4 @@
 # magnum460Blend
 #
 
-todo: rebuild the hight-left part !!!!!
+A Blender project about the 3D models of the gun Magnum 460
