@@ -1,4 +1,4 @@
 # magnum460Blend
 #
 
-A Blender project about the 3D models of the gun Magnum 460
+A Blender project about a 3D model of the gun Magnum 460
