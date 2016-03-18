@@ -1,6 +1,5 @@
 # magnum 460 Blender project
 #
-
-__A Blender project about a 3D model of the gun Magnum 460__
+__Contains the 3D model (.fbx and .dae) and the blender (.blend) project about the gun magnum 460__
 
 >*This model is included in my game: [shooting game](https://github.com/TheGoodFella/ShootingGame)*
