@@ -1,4 +1,4 @@
-# magnum 460 Blender project
+# magnum460Blend
 #
 __Contains the 3D model (.fbx and .dae) and the blender (.blend) project about the gun magnum 460__
 
